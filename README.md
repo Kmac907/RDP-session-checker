@@ -1,6 +1,6 @@
 <h1>RDP Sesson Checker</h1>
 
-### [Project Walkthrough](https://kmac907.tech/)
+### [Project Walkthrough](https://kmac907.tech/index.php/2023/06/28/learning-powershell-rdp-session-checker/)
 
 <h2>Description</h2>
 
